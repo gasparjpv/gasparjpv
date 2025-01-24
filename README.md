@@ -3,7 +3,6 @@
 - 🔭 I’m currently working in enterprise sales engineering
 - 🌱 I'm currently learning applied machine learning techniques to predict environmental factors influencing HABs.
 - 👯 I’m looking to collaborate on data science projects
-- 📫 How to reach me: jpvgaspar@gmail.com
 
 <div align="center">
   <a href="https://github.com/gasparjpv">
